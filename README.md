@@ -1,6 +1,8 @@
 # 🎃 PCCOE ACM Website - HacktoberFest 2023 🎃
 
-![PCCOE ACM](https://user-images.githubusercontent.com/81232337/195917410-5f0419a0-e955-4567-ace9-d4a629e7f45f.png)
+
+<img width="317" alt="Screenshot 2023-10-15 at 12 01 14 AM" src="https://github.com/pccoe-acm-hacktoberfest-2023/pccoeacm-website/assets/31288352/1ed656b6-05f3-4231-b6b1-e6f75762514c">
+
 
 Contribute here to complete your HacktoberFest Event.
 
