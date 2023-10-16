@@ -1,4 +1,4 @@
-<center style="font-size:'26px';font-weight:'bold';margin-bottom:'40px'">🎃 PCCOE ACM Website - HacktoberFest 2023 🎃</center>
+# <h1 style="font-size:'26px';font-weight:'bold';margin-bottom:'40px'">🎃 PCCOE ACM Website - HacktoberFest 2023 🎃</h1>
 
 <div style="width:'400px';margin:'auto'">
 <img width="400px" alt="Screenshot 2023-10-15 at 12 01 14 AM" src="https://github.com/pccoe-acm-hacktoberfest-2023/pccoeacm-website/assets/31288352/1ed656b6-05f3-4231-b6b1-e6f75762514c">
