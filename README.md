@@ -1,7 +1,7 @@
-# 🎃 PCCOE ACM Website - HacktoberFest 2023 🎃
+<center style="font-size:26px;font-weight:bold;margin-bottom:40px">🎃 PCCOE ACM Website - HacktoberFest 2023 🎃</center>
 
-<div style="margin:auto">
-<img width="400px" height="400px" alt="Screenshot 2023-10-15 at 12 01 14 AM" src="https://github.com/pccoe-acm-hacktoberfest-2023/pccoeacm-website/assets/31288352/1ed656b6-05f3-4231-b6b1-e6f75762514c">
+<div style="width:400px;margin:auto">
+<img width="400px" alt="Screenshot 2023-10-15 at 12 01 14 AM" src="https://github.com/pccoe-acm-hacktoberfest-2023/pccoeacm-website/assets/31288352/1ed656b6-05f3-4231-b6b1-e6f75762514c">
 </div>
 
 
@@ -29,6 +29,7 @@ git clone https://github.com/your-username/pccoe-acm-website.git
 git checkout -b your-branch-name
 
 git add .
+git Status
 git commit -m 'Your commit message'
 git push origin your-branch-name
 
