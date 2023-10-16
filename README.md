@@ -29,7 +29,7 @@ git clone https://github.com/your-username/pccoe-acm-website.git
 git checkout -b your-branch-name
 
 git add .
-git Status
+git status
 git commit -m 'Your commit message'
 git push origin your-branch-name
 
