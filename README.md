@@ -22,9 +22,8 @@ Hacktoberfest is a month-long celebration from October 1st - 31st sponsored by `
 1. Fork this repository (Click the Fork button in the top right of this page, click your Profile Image).
 2. Clone your forked repository to your local machine.
 
-```markdown
-git clone https://github.com/your-username/pccoe-acm-website.git
-
+```sh
+git clone https://github.com/your-username/pccoeacm-website.git
 
 git checkout -b your-branch-name
 
@@ -32,37 +31,4 @@ git add .
 git status
 git commit -m 'Your commit message'
 git push origin your-branch-name
-
-
-#### Name: [YOUR NAME](GitHub link)
-
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-
-
-# Your Name
-
-### Location
-
-Your City/Country
-
-### Academics
-
-Your School
-
-### Interests
-
-- Some Things You Like
-
-### Development
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
-### Profile Link
-
-[Your Name](GitHub Link)
+```
