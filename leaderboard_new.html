@@ -26,6 +26,7 @@
 
     <!-- Main Stylesheet File -->
     <link href="css/style.css" rel="stylesheet" />
+    <link href="css/timeline.css" rel="stylesheet" />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K4Z30P6082"></script>
@@ -110,32 +111,6 @@
 
     <section id="about" style="padding-top: 100px">
 
-        <!-- 
-        <div class="container">
-            <div class="row leaderboard-tables">
-                <div class="col-md-12 wow fadeInUp">
-                    <div class="section-header">
-                        <h3>GeeksforGeeks Ranking</h3>
-                        <center>
-                            <img src="images/opportunities/gfg.png" alt="" height="100px" class="img-responsive" />
-                        </center>
-
-                        <p>
-                            GeeksforGeeks is a highly regarded online platform in the world of coding contests and
-                            competitive programming. It offers a wide array of resources and features that cater to the
-                            needs of programmers aiming to excel in coding competitions such as ACM ICPC, Google Code
-                            Jam, TopCoder, and Codeforces.
-                            <br />
-                            One of the key attractions of GeeksforGeeks is its extensive collection of coding problems
-                            and challenges. These problems span various difficulty levels, making it a valuable resource
-                            for both beginners and advanced programmers to hone their algorithmic and data structure
-                            skills.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-
         <div class="container">
 
             <table class="table table-striped">
@@ -148,10 +123,22 @@
                     </tr>
                 </thead>
                 <tbody id="table_body">
-
-
                 </tbody>
             </table>
+
+            <div id="popup" class="modal">
+
+                <!-- Modal content -->
+                <div class="modal-content">
+                  <span id ="clsid" class="close">&times;</span>
+                  
+                    <div id="user-data">
+                        
+                    </div>
+                </div>
+              
+              </div>
+           
             <p style="text-align: center;"><i>Note: We use caching on this page. So, the changes in data may take up to
                     24 hours to reflect here.</i></p>
 
@@ -264,8 +251,19 @@
     <script src="lib/wow/wow.min.js"></script>
 
     <!-- Template Main Javascript File -->
+
+    <script type="text/javascript">
+        // let pop = document.getElementById("popup");
+        
+        
+        function closePopup() {
+            pop.classList.remove("open-popup")
+        }
+
+
+    </script>
     <script src="js/main.js"></script>
-    <script src="js/ranking.js"></script>
+    <script type="text/javascript" src="js/ranking.js"></script>
 </body>
 
 </html>
